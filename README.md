@@ -1,5 +1,5 @@
 # Projects
-Projects listed in this repo may also be found in the following URLs which contain more info and instructions for running
+Projects listed in this repo and more may be found at the following URLs which contain more info and instructions for running.
 </br>
 COA Site: https://github.com/CS3398-Chartreuse/CS3398_Chartreuse.git
 </br>
